@@ -31,11 +31,12 @@ h1 {
 }
 
 h2 {
-  text-decoration: bold;
+  text-align: center;
   color: red;
 }
 h3 {
   color: blue;
+  text-align: center;
 }
 img {
   
