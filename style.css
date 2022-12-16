@@ -30,6 +30,13 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  text-decoration: bold;
+  color: red;
+}
+h3 {
+  color: blue;
+}
 img {
   
   width: 200px;
