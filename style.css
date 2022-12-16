@@ -31,13 +31,17 @@ h1 {
 }
 
 h2 {
+  
   text-align: center;
   color: red;
 }
+
 h3 {
+  
   color: blue;
   text-align: center;
 }
+
 img {
   
   width: 200px;
