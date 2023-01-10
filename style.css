@@ -40,8 +40,14 @@ p {
 }
 h3 {
   color: white;
+  text-size: 60px;
+  text-align: center;
+}
+h4 {
+  color: white;
   text-size: 40px;
-  background-color: black;
+  text-align: center;
+  font-family: Helvetica;
 }
 img {
   
