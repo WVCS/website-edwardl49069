@@ -39,7 +39,9 @@ p {
   color: red;
 }
 h3 {
-  color: blue;
+  color: white;
+  text-size: 40px;
+  background-color: black;
 }
 img {
   
