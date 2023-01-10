@@ -25,26 +25,21 @@ a {
   color: white;
 }
 h1 {
-  
+  font-family: Copperplate, fantasy;
   color: white;
   text-align: center;
+  font-style: oblique;
+  font-size: 100px;
+ text-shadow: 2px 2px red;
+  letter-spacing: 5px;
 }
 
-h2 {
-  
-  text-align: center;
+p {
+  text-decoration: bold;
   color: red;
 }
-
 h3 {
-  
   color: blue;
-  text-align: center;
-}
-h4 {
-  
-  color: white;
-  text-align: center;
 }
 img {
   
